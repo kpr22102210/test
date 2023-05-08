@@ -10,4 +10,11 @@
 4. write a program/code for copy -write the program in side backdot (```program```)
  
   
- 
+ ```
+ #include <stdio.h>
+int main() {
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
+```
